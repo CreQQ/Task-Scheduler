@@ -1,20 +1,23 @@
 {
-  "name": "taskscheduler-creqq", 
-  "version": "1.0.0", 
-  "description": "by CreQQ", 
+  "name": "taskscheduler-creqq",
+  "version": "1.0.1",
+  "description": "by CreQQ",
   "main": "./src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/CreQQ/Task-Scheduler.git" 
+    "url": "https://github.com/CreQQ/Task-Scheduler.git"
   },
-    "keywords": [ 
-    "", 
+  "keywords": [
+    "",
     "",
     ""
   ],
-  "author": "", 
-  "license": "MIT"
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "cryptonetyn-game-toolkit": "^1.1.0"
+  }
 }
